@@ -10,6 +10,8 @@ On home web page it's enough to put own Virtual Machine details :
 	
 By clicking the submit button the migration of the virtual machine will start from Trento to the new node Trento2
 
+At the bottom of the page, the user can view the informations about the status of the migration process.
+
 The website : http://fiwaremigration.trentinonetwork.it
 
 ##Ongoing 
